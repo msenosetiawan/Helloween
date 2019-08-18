@@ -3,7 +3,7 @@
 	<name>Helloween Indonesia</name>
 	<description>Aplikasi resmi komunitas Helloween Indonesia</description>
 	<author email="halo@ayomulai.online" href="https://ayomulai.online">Michael Seno Setiawan</author>
-	<content src="https://helloween.id" />
+	<content src="index.html" />
 	<!-- Network Request Whitelist -->
 	<access origin="*" />
 	<platform name="android">

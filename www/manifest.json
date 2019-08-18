@@ -2,7 +2,7 @@
         {
           "name": "Helloween Indonesia Lite",
           "short_name": "Helloween Indonesia",
-          "start_url": "https://helloween.id",
+          "start_url": "index.html",
           "display": "standalone",
           "icons":[{"src": "data/images/header/logo.png"}],
           "prefer_related_applications": true,
